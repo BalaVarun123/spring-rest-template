@@ -18,8 +18,7 @@ public class Client {
 
 
 		
-		
-		
+		//System.out.println("Hello.");
 			ApplicationContext context = new AnnotationConfigApplicationContext(Client.class);
 		
 			
